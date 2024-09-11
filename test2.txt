@@ -1,2 +1,2 @@
 This is second simple sample text file.
-I have update the test2 file.
+Now another line added.
